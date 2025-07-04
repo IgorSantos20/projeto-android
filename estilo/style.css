@@ -159,8 +159,7 @@ div.video {
 
 
 div.video > iframe {
-    width: 90%;
-    max-width: 800px;
+    width: 100%;
     aspect-ratio: 16/9;
 }
 
